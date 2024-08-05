@@ -28,3 +28,11 @@ The project follows a structured directory layout, with separate directories for
 - `database/`: Includes database schema and scripts for setting up the database.
 - `docs/`: Contains documentation files, including user guides, API documentation, and project specifications.
 
+### Version Control
+We use version control to manage the development workflow and track changes to the codebase. Watch the video below to learn more about our version control workflow:
+
+[![Project Workflow video]()
+
+For any questions or support, please contact [vyshnavinalla2001@gmail.com].
+
+
